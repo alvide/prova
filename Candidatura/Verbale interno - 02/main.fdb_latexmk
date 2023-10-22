@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1697881806 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 02/main.tex" "main.pdf" "main" 1697881808 0
+["pdflatex"] 1698006927 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 02/main.tex" "main.pdf" "main" 1698006929 0
   "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 02/main.tex" 1697881696 239 53a897ec6b14c4d78299a1103f8a2af3 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697616687 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697617488 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -98,15 +98,15 @@
   "c:/Dev/Tools/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697620698 4750308 37a62ff8128f768f059c28d69aca5111 ""
   "c:/Dev/Tools/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697620876 8195522 29d57a01785238a4a0748798de3c6d21 ""
   "c:/Dev/Tools/texlive/2023/texmf.cnf" 1697620677 713 e69b156964470283e0530f5060668171 ""
-  "chapters/contenuto.tex" 1697881804 1009 14c0a2ebd86424f61a656c7a10c169eb ""
-  "chapters/partecipanti.tex" 1697881756 455 e53593070d145ccc9f62342c8c4b899e ""
+  "chapters/contenuto.tex" 1698006927 1142 c0e12ab0cb43770744a4028d33fff4ed ""
+  "chapters/partecipanti.tex" 1698006484 588 71984c188d25671f285ffb7404f3a90a ""
   "img/header.png" 1697811192 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1697811193 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1697811193 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1697881808 985 4fd310d12eb8e07ea8fdfa5b647d5142 "pdflatex"
-  "main.out" 1697881808 325 d59d649c4b975d3b2cac8607cdaaaf0d "pdflatex"
+  "main.aux" 1698006929 985 4fd310d12eb8e07ea8fdfa5b647d5142 "pdflatex"
+  "main.out" 1698006929 325 d59d649c4b975d3b2cac8607cdaaaf0d "pdflatex"
   "main.tex" 1697881696 239 53a897ec6b14c4d78299a1103f8a2af3 ""
-  "utility/commands.tex" 1697811193 1803 daf30cbd0e4c9c2717db8720a2b38d4b ""
+  "utility/commands.tex" 1698006742 1820 beed3a2644ea25fb2fa9f0f5894801df ""
   "utility/package.sty" 1697811084 1006 48fa3205d8a1c768025ea89c13902310 ""
   (generated)
   "main.aux"
