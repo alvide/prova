@@ -1,0 +1,43 @@
+\section{Documentazione}
+\subsection{Strumenti}
+Gli strumenti utilizzati per la creazione dei documenti sono:
+\begin{itemize}
+    \item \textbf{LaTeX}: strumento per la creazione di documenti \\
+        \href{https://www.latex-project.org/}{(www.latex-project.org)};
+    \item \textbf{VisualStudio Code}: GUI con integrazioni per la creazione di documenti scritti in LaTeX e per la gestione delle repository git \\
+        \href{https://code.visualstudio.com/}{(code.visualstudio.com)}
+\end{itemize}
+
+\subsection{Creazione e modifica di un documento}
+Lo strumento utilizzato per la redazione di documenti è LaTeX, quando si crea un nuovo documento è obbligatorio l'utilizzo di uno dei template disponibili al fine di uniformare la documentazione rilasciata.
+La versione di partenza deve sempre essere \texttt{0.1.0} e venire aggiornata ad ogni modifica.
+I \textit{templates} disponibili sono:
+\begin{itemize}
+    \item \textbf{Verbali}: per i resoconti degli incontri interni al gruppo o con le aziende proponenti;
+    \item \textbf{Documenti}: ogni documento che non sia un verbale, prevede obbligatoriamente la presenza di un registro delle modifiche;
+    \item \textbf{Presentazioni}.
+\end{itemize}
+Qualora sia necessaria una diversa tipologia di documento le sue caratteristiche grafiche ed organizzative dovranno essere discusse nel gruppo.
+
+\subsection{Ruoli di redattore, verificatore, approvatore}
+Nella prima pagina di ogni documento o verbale è sempre presente un riassunto dei ruoli svolti dai componenti del gruppo, poi esteso all'interno del registro delle modifiche.
+La posizione di redattore e verificatore può essere assunta da più membri del gruppo, ciascuno dei quali può anche ricoprire entrambi i ruoli in base al contributo dato nelle differenti versioni di ogni documento.
+L'indicazione del nominativo dei membri del gruppo segue sempre l'ordine del nome e successivamente del cognome.
+
+\subsection{Versionamento}
+Tutta la documentazione prodotta dovrà essere inserita in un \textit{repository} git presente su GitHub (\href{https://github.com/Project-SWEnergy/doc-latex/}{github.com/Project-SWEnergy/doc-latex}). 
+\par
+(INSERIRE STRUTTURA REPOSITORY) 
+\par
+Ogni documento rilasciato dovrà presentare anche un versionamento interno indicato con tre interi positivi nel formato \texttt{X.Y.Z}, dove:
+\begin{itemize}
+    \item \textbf{X}: da incrementare in fase di verifica e rilascio di un documento, indica l'ultima versione ufficialmente rilasciata;
+    \item \textbf{Y}: da incrementare in caso avvenga una sostanziale modifica, creazione o eliminazione di una sezione;
+    \item \textbf{Z}: da incrementare in caso avvenga una sostanziale modifica, creazione o eliminazione di una sottosezione a partire dal secondo livello.
+\end{itemize}
+Ogni documento dovrà essere creato partendo dalla sezione \texttt{0.1.0}, ogni successivo incremento alla versione dovrà essere accompagnato da una nuova riga nella tabella "Registro delle modifiche" che espliciti i cambiamenti effettuati.
+Modifiche quali correzioni grammaticali o leggere variazioni nel testo non vanno riportate nel registro delle modifiche e non producono un avanzamento di versione.
+L'avanzamento di versione non deve avvenire prima che il contenuto della modifica sia stato verificato.
+L'approvazione di un documento avviene solo quando il documento deve essere rilasciato per una specifica fase di avanzamento.
+
+\subsection{Verifica di uno documento}
