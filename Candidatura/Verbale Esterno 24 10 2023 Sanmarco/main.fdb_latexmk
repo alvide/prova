@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698223698 "c:/Users/utente/Desktop/SWE-DOC/doc-latex/Candidatura/Verbale Esterno 24 10 2023 Sanmarco/main.tex" "main.pdf" "main" 1698223700 0
+["pdflatex"] 1698223985 "c:/Users/utente/Desktop/SWE-DOC/doc-latex/Candidatura/Verbale Esterno 24 10 2023 Sanmarco/main.tex" "main.pdf" "main" 1698223987 0
   "C:/Users/utente/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697725376 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/utente/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1697725381 14064 5f05dde9f101d19279679b70574ba5e1 ""
   "C:/Users/utente/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1697725267 24175698 bf4540d36717787085895a11b95dfe23 ""
@@ -99,12 +99,12 @@
   "img/header.png" 1697969041 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1697969041 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1697969041 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698223700 1351 2b4261c24e09742ebcfa990e9991b97d "pdflatex"
-  "main.out" 1698223700 727 d48f914ff3d5c3bd1a4552197bf8c360 "pdflatex"
+  "main.aux" 1698223987 1351 2b4261c24e09742ebcfa990e9991b97d "pdflatex"
+  "main.out" 1698223987 727 d48f914ff3d5c3bd1a4552197bf8c360 "pdflatex"
   "main.tex" 1698163121 272 7a0e8d3f7cdbef4ad93c1191fda0a1fd ""
-  "sec/ordine_del_giorno.tex" 1698223537 435 2fd6501f8d566c56c120859caa012146 ""
+  "sec/ordine_del_giorno.tex" 1698223970 437 619e4449012eb377fd45d1cbb57cfe0e ""
   "sec/partecipanti.tex" 1698168672 674 345243e8dfa3adcddebfdd4a07c626b3 ""
-  "sec/resoconto.tex" 1698223567 3989 09feab139fc1746bef4e4b6785fd6017 ""
+  "sec/resoconto.tex" 1698223984 3991 460c878d7fe1fc3bee6385be3da9484e ""
   "utility/commands.tex" 1698223697 1650 9093c051eb42cc9a3aa5cf986eb1bd4b ""
   "utility/package.sty" 1697923489 1006 48fa3205d8a1c768025ea89c13902310 ""
   (generated)
