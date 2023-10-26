@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1698312976 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Valutazione capitolati/main.tex" "main.pdf" "main" 1698312978 0
-  "c:/Dev/Projects/SWE/doc-latex/Candidatura/Valutazione capitolati/main.tex" 1698306559 373 17bd2014e016dffb3beffc84739c0892 ""
+["pdflatex"] 1698316930 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Valutazione capitolati/main.tex" "main.pdf" "main" 1698316932 0
+  "c:/Dev/Projects/SWE/doc-latex/Candidatura/Valutazione capitolati/main.tex" 1698316927 387 668457552fecde540b1e60026c70d89e ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697616687 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697617488 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1697617134 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -139,11 +139,11 @@
   "img/header.png" 1698071598 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1698071598 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1698071598 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698312977 6117 6c6df7dcb246776b539c33953c8c8267 "pdflatex"
-  "main.out" 1698312977 3250 21a921c515f64495c0983cf4a166e926 "pdflatex"
-  "main.tex" 1698306559 373 17bd2014e016dffb3beffc84739c0892 ""
-  "main.toc" 1698312977 3727 85d798fa2a1a1130d0f5286bdb63f25e "pdflatex"
-  "sec/C1.tex" 1698140395 2887 1bcc678beec87ced2c4f2eba5379b372 ""
+  "main.aux" 1698316931 6121 ce690a612e139bb013775b4cc93a31f1 "pdflatex"
+  "main.out" 1698316931 3250 21a921c515f64495c0983cf4a166e926 "pdflatex"
+  "main.tex" 1698316927 387 668457552fecde540b1e60026c70d89e ""
+  "main.toc" 1698316931 3731 b569d2b6c191d7349e34e2b86a923216 "pdflatex"
+  "sec/C1.tex" 1698316886 3939 d4af39555a0f6f97f3508600038a9ac9 ""
   "sec/C2.tex" 1698141967 2047 f1a9e24d04fef31c5854f60f6bed0e30 ""
   "sec/C3.tex" 1698140696 3113 978d9bcf814ce188fbb9ee3746a987be ""
   "sec/C4.tex" 1698141954 1857 464138a04f8630f39ae0c7fa06d643aa ""
