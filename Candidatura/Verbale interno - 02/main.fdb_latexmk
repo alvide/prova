@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698266938 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 02/main.tex" "main.pdf" "main" 1698266941 0
+["pdflatex"] 1698310381 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 02/main.tex" "main.pdf" "main" 1698310382 0
   "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 02/main.tex" 1698071598 239 53a897ec6b14c4d78299a1103f8a2af3 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697616687 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697617488 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -133,13 +133,13 @@
   "c:/Dev/Tools/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697620698 4750308 37a62ff8128f768f059c28d69aca5111 ""
   "c:/Dev/Tools/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697620876 8195522 29d57a01785238a4a0748798de3c6d21 ""
   "c:/Dev/Tools/texlive/2023/texmf.cnf" 1697620677 713 e69b156964470283e0530f5060668171 ""
-  "chapters/contenuto.tex" 1698266936 2621 2edf2d880a1b75aaaffcf10b155e4bb7 ""
-  "chapters/partecipanti.tex" 1698140395 588 71984c188d25671f285ffb7404f3a90a ""
+  "chapters/contenuto.tex" 1698310380 2577 6eda7e08f82125f02bcd3ce043a2c46f ""
+  "chapters/partecipanti.tex" 1698309667 588 7e98e7e36a43fc558dd114f09151a24f ""
   "img/header.png" 1698071598 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1698071598 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1698071598 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698266940 1217 d83f17e038a9ecaf4bb0d14dda0751c2 "pdflatex"
-  "main.out" 1698266940 514 461c0f30b334da263111345c068422df "pdflatex"
+  "main.aux" 1698310382 1217 d83f17e038a9ecaf4bb0d14dda0751c2 "pdflatex"
+  "main.out" 1698310382 514 461c0f30b334da263111345c068422df "pdflatex"
   "main.tex" 1698071598 239 53a897ec6b14c4d78299a1103f8a2af3 ""
   "utility/commands.tex" 1698252118 1924 0124629bd7fbddce5cfe0f6c3ce86979 ""
   "utility/package.sty" 1698140396 1040 9a901f77d85e1f673cc41c5b8f65a253 ""
