@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1698420982 "c:/Dev/Projects/SWE/doc-latex/Templates/Verbale esterno - AAA_MM_DD NomeAzienda/main.tex" "main.pdf" "main" 1698420984 0
-  "c:/Dev/Projects/SWE/doc-latex/Templates/Verbale esterno - AAA_MM_DD NomeAzienda/main.tex" 1698420581 272 7a0e8d3f7cdbef4ad93c1191fda0a1fd ""
+["pdflatex"] 1698439304 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale esterno - 2023_10_24 Sanmarco/main.tex" "main.pdf" "main" 1698439306 0
+  "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale esterno - 2023_10_24 Sanmarco/main.tex" 1698438889 272 7a0e8d3f7cdbef4ad93c1191fda0a1fd ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697616687 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697617488 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1697617134 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -136,12 +136,12 @@
   "img/header.png" 1698420581 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1698420581 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1698420581 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698420984 1336 16769ff062a17b377ec12a09ce587794 "pdflatex"
-  "main.out" 1698420984 592 7bfe7fefafab432d857bdcf1e14afda6 "pdflatex"
-  "main.tex" 1698420581 272 7a0e8d3f7cdbef4ad93c1191fda0a1fd ""
-  "sec/ordine_del_giorno.tex" 1698420581 163 50f0e9d419b16281f468bd953f6aaec9 ""
-  "sec/partecipanti.tex" 1698420581 744 fb032eba1fd9410075ee952543017156 ""
-  "sec/resoconto.tex" 1698420581 3537 2e5b99f585b93f52e93365cad2c12f09 ""
+  "main.aux" 1698439306 1440 444d822250cbb9791f7e4333b38b07f8 "pdflatex"
+  "main.out" 1698439306 670 3c3bd378c336347614ea3fbfdf426010 "pdflatex"
+  "main.tex" 1698438889 272 7a0e8d3f7cdbef4ad93c1191fda0a1fd ""
+  "sec/ordine_del_giorno.tex" 1698438963 160 2e3b70fd43e9916f3fb254f205c0713b ""
+  "sec/partecipanti.tex" 1698438954 747 c0bc2eab492950daa156436a7a6f2292 ""
+  "sec/resoconto.tex" 1698439302 3760 97520eb8adedf5f6a6ee716a8083281f ""
   "utility/commands.tex" 1698420581 1661 b654ee9499289ebb71e410722e662910 ""
   "utility/package.sty" 1698420581 1040 9a901f77d85e1f673cc41c5b8f65a253 ""
   (generated)
