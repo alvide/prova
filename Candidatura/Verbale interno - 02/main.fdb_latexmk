@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698310381 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 02/main.tex" "main.pdf" "main" 1698310382 0
+["pdflatex"] 1698442022 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 02/main.tex" "main.pdf" "main" 1698442024 0
   "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 02/main.tex" 1698071598 239 53a897ec6b14c4d78299a1103f8a2af3 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697616687 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697617488 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -112,6 +112,7 @@
   "c:/Dev/Tools/texlive/2023/texmf-dist/tex/latex/mathtools/mathtools.sty" 1697618526 62269 5c1837a5bc5db4c0d255eedc225ca44b ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/tex/latex/mathtools/mhsetup.sty" 1697618526 5582 a43dedf8e5ec418356f1e9dfe5d29fc3 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty" 1697618595 18649 0158a8d684645a30f5c01e471f44e851 ""
+  "c:/Dev/Tools/texlive/2023/texmf-dist/tex/latex/multirow/multirow.sty" 1697618734 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/tex/latex/pagecolor/pagecolor.sty" 1697618955 9888 bce9a9132a3f756ede24729ac30ff1e9 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty" 1697619471 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1697619492 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
@@ -133,16 +134,16 @@
   "c:/Dev/Tools/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697620698 4750308 37a62ff8128f768f059c28d69aca5111 ""
   "c:/Dev/Tools/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697620876 8195522 29d57a01785238a4a0748798de3c6d21 ""
   "c:/Dev/Tools/texlive/2023/texmf.cnf" 1697620677 713 e69b156964470283e0530f5060668171 ""
-  "chapters/contenuto.tex" 1698310380 2577 6eda7e08f82125f02bcd3ce043a2c46f ""
-  "chapters/partecipanti.tex" 1698309667 588 7e98e7e36a43fc558dd114f09151a24f ""
+  "chapters/contenuto.tex" 1698442021 2620 80fb056b88b15a662d13c1cf22eb6779 ""
+  "chapters/partecipanti.tex" 1698440485 579 74e840d5e78227ffb35040f1b9c686ab ""
   "img/header.png" 1698071598 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1698071598 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1698071598 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698310382 1217 d83f17e038a9ecaf4bb0d14dda0751c2 "pdflatex"
-  "main.out" 1698310382 514 461c0f30b334da263111345c068422df "pdflatex"
+  "main.aux" 1698442024 1217 d83f17e038a9ecaf4bb0d14dda0751c2 "pdflatex"
+  "main.out" 1698442024 514 461c0f30b334da263111345c068422df "pdflatex"
   "main.tex" 1698071598 239 53a897ec6b14c4d78299a1103f8a2af3 ""
-  "utility/commands.tex" 1698252118 1924 0124629bd7fbddce5cfe0f6c3ce86979 ""
-  "utility/package.sty" 1698140396 1040 9a901f77d85e1f673cc41c5b8f65a253 ""
+  "utility/commands.tex" 1698420581 1924 0124629bd7fbddce5cfe0f6c3ce86979 ""
+  "utility/package.sty" 1698441726 1063 98d8de240757b45bfd5478a7d4e3eb8e ""
   (generated)
   "main.aux"
   "main.log"

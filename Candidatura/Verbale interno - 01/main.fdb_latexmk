@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698310108 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 01/main.tex" "main.pdf" "main" 1698310110 0
+["pdflatex"] 1698440420 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 01/main.tex" "main.pdf" "main" 1698440422 0
   "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale interno - 01/main.tex" 1698071598 241 68d139cb7c01a3e4e1d259d205edf4d0 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697616687 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697617488 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -133,15 +133,15 @@
   "c:/Dev/Tools/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697620698 4750308 37a62ff8128f768f059c28d69aca5111 ""
   "c:/Dev/Tools/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697620876 8195522 29d57a01785238a4a0748798de3c6d21 ""
   "c:/Dev/Tools/texlive/2023/texmf.cnf" 1697620677 713 e69b156964470283e0530f5060668171 ""
-  "chapters/contenuto.tex" 1698264972 1164 2a1bccd2c838d2abd55aea42ee98737d ""
-  "chapters/partecipanti.tex" 1698310108 583 0c18e4fcc419d5b7e4903d42541d6540 ""
+  "chapters/contenuto.tex" 1698420581 1164 2a1bccd2c838d2abd55aea42ee98737d ""
+  "chapters/partecipanti.tex" 1698440420 569 b59ef97b1f3b95fe5abbfcb207b1faf5 ""
   "img/header.png" 1698071598 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1698071598 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1698071598 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698310110 1092 db0254ee28014758e3be3a20752d6343 "pdflatex"
-  "main.out" 1698310110 325 d59d649c4b975d3b2cac8607cdaaaf0d "pdflatex"
+  "main.aux" 1698440422 1092 db0254ee28014758e3be3a20752d6343 "pdflatex"
+  "main.out" 1698440422 325 d59d649c4b975d3b2cac8607cdaaaf0d "pdflatex"
   "main.tex" 1698071598 241 68d139cb7c01a3e4e1d259d205edf4d0 ""
-  "utility/commands.tex" 1698252210 1851 25a663e03c3ca46b9ab32bd9816377b1 ""
+  "utility/commands.tex" 1698420581 1851 25a663e03c3ca46b9ab32bd9816377b1 ""
   "utility/package.sty" 1698140395 1040 9a901f77d85e1f673cc41c5b8f65a253 ""
   (generated)
   "main.aux"
