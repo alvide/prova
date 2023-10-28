@@ -1,0 +1,54 @@
+\newcommand{\Titolo}{Lettera di presentazione}
+\newcommand{\Gruppo}{SWEnergy}
+\newcommand{\Data}{28/10/2023}
+\newcommand{\Mail}{\href{mailto:project.swenergy@gmail.com}{project.swenergy@gmail.com}}
+\newcommand{\Versione}{0.1.0}
+\newcommand{\Stato}{Non approvato}
+\newcommand{\Redattori}{Carlo Rosso}
+\newcommand{\Verificatori}{Nome 1}
+\newcommand{\Approvatori}{Nome 1}
+\newcommand{\Responsabile}{}
+\newcommand{\Destinatari}{Prof. Tullio Vardanega \\ & Prof. Riccardo Cardin}
+
+
+\newcommand{\copertina}{    
+	\begin{titlepage}
+		\vspace*{-3.5cm}
+    	\makebox[\textwidth]{\includegraphics[width=\paperwidth]{img/header.png}}
+		\begin{center}
+			\includegraphics[width=1\textwidth]{img/logo}	\\
+			\vspace{1cm}
+			\Mail{}	\\
+			\vspace{0.5cm}
+			\textbf{\begin{LARGE} \Titolo \end{LARGE}}	\\
+			\vspace{1cm}
+			\vspace{0.5cm}
+		\end{center}
+		\begin{center}
+			{
+			\renewcommand{\arraystretch}{1.5}
+			\begin{tabular}{ll}
+				\textbf{Stato} 			& \Stato		\\ 
+				\textbf{Data}			& \Data			\\
+				\midrule
+				\textbf{Redattori} 		& \Redattori 	\\  
+				\textbf{Verificatori} 	& \Verificatori	\\
+				\textbf{Approvatori} 	& \Approvatori	\\  
+				\textbf{Destinatari} 	& \Destinatari	\\ 
+				\midrule
+				\textbf{Versione}		& \Versione		\\
+			   \end{tabular}
+			}
+		\end{center}
+	\end{titlepage}
+}
+
+\fancypagestyle{plain}{
+  	\fancyhf{}
+  	\rhead{ \includegraphics[scale=0.05]{img/horizontal_logo.png}}
+  	\lhead{\Titolo}
+  	\rfoot{\thepage{}} 
+  	\renewcommand{\headrulewidth}{0.2pt}
+  	\renewcommand{\footrulewidth}{0.2pt}
+}
+\pagestyle{plain}
