@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1698421209 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale esterno - 2023_10_24 Sanmarco/main.tex" "main.pdf" "main" 1698421211 0
-  "c:/Dev/Projects/SWE/doc-latex/Candidatura/Verbale esterno - 2023_10_24 Sanmarco/main.tex" 1698420581 272 7a0e8d3f7cdbef4ad93c1191fda0a1fd ""
+["pdflatex"] 1698487455 "c:/Dev/Projects/SWE/doc-latex/Templates/Verbale esterno - AAAA_MM_DD NomeAzienda/main.tex" "main.pdf" "main" 1698487456 0
+  "c:/Dev/Projects/SWE/doc-latex/Templates/Verbale esterno - AAAA_MM_DD NomeAzienda/main.tex" 1698420581 272 7a0e8d3f7cdbef4ad93c1191fda0a1fd ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697616687 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697617488 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1697617134 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -134,11 +134,11 @@
   "img/header.png" 1698420581 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1698420581 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1698420581 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698421210 1200 4ae671451cb1e5d6cd6853c733aecb71 "pdflatex"
-  "main.out" 1698421210 423 c972acfd076e6727d305a67e55ded398 "pdflatex"
+  "main.aux" 1698487456 1200 4ae671451cb1e5d6cd6853c733aecb71 "pdflatex"
+  "main.out" 1698487456 423 c972acfd076e6727d305a67e55ded398 "pdflatex"
   "main.tex" 1698420581 272 7a0e8d3f7cdbef4ad93c1191fda0a1fd ""
-  "sec/ordine_del_giorno.tex" 1698421051 98 0d068048ba32e84763ef4b475a03ae9b ""
-  "sec/partecipanti.tex" 1698420982 492 bb748328531c81b13dca17e0ff6beb33 ""
+  "sec/ordine_del_giorno.tex" 1698487454 135 47888920dee6d2efd7ab7cd0edcf691e ""
+  "sec/partecipanti.tex" 1698487439 492 8fdfdafa01535ff1a43d1458d262260f ""
   "sec/resoconto.tex" 1698421206 182 5eabce0396b11e9dc22e724f48e99f98 ""
   "utility/commands.tex" 1698420847 1755 3cb9e1d53937ff4550da30b6938a957d ""
   "utility/package.sty" 1698420581 1040 9a901f77d85e1f673cc41c5b8f65a253 ""

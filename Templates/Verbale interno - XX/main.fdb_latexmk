@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698309934 "c:/Dev/Projects/SWE/doc-latex/Templates/Verbale interno - XX/main.tex" "main.pdf" "main" 1698309935 0
+["pdflatex"] 1698487519 "c:/Dev/Projects/SWE/doc-latex/Templates/Verbale interno - XX/main.tex" "main.pdf" "main" 1698487521 0
   "c:/Dev/Projects/SWE/doc-latex/Templates/Verbale interno - XX/main.tex" 1698071598 359 8be233dde4880256b635cbfda875bfe8 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697616687 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697617488 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -131,13 +131,13 @@
   "c:/Dev/Tools/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697620698 4750308 37a62ff8128f768f059c28d69aca5111 ""
   "c:/Dev/Tools/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697620876 8195522 29d57a01785238a4a0748798de3c6d21 ""
   "c:/Dev/Tools/texlive/2023/texmf.cnf" 1697620677 713 e69b156964470283e0530f5060668171 ""
-  "chapters/contenuto.tex" 1698309933 779 8698c37a6053116ea0470cdc340d5ec1 ""
-  "chapters/partecipanti.tex" 1698140396 430 1b6caccd1b24be01325dcb7d320e826d ""
+  "chapters/contenuto.tex" 1698487519 779 7369a02090fa2835d4fa3cc133c3cd1b ""
+  "chapters/partecipanti.tex" 1698487513 430 c0d34ab6b98177db7fe1f6333c42cbee ""
   "img/header.png" 1698071598 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1698071598 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1698071598 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698309935 1321 77fb7a992904743335e0e5531009250d "pdflatex"
-  "main.out" 1698309935 592 2a8ab863b822a2bba1b5c374747f7141 "pdflatex"
+  "main.aux" 1698487521 1321 77fb7a992904743335e0e5531009250d "pdflatex"
+  "main.out" 1698487521 592 2a8ab863b822a2bba1b5c374747f7141 "pdflatex"
   "main.tex" 1698071598 359 8be233dde4880256b635cbfda875bfe8 ""
   "utility/commands.tex" 1698140396 1805 e7231591bff97ee2ef5c22fe14aab142 ""
   "utility/package.sty" 1698140396 1040 9a901f77d85e1f673cc41c5b8f65a253 ""
