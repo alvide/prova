@@ -2,42 +2,74 @@
 \subsection{Strumenti}
 Gli strumenti utilizzati per la creazione dei documenti sono:
 \begin{itemize}
-    \item \textbf{LaTeX}: strumento per la creazione di documenti \\
+    \item \textbf{LaTeX}: linguaggio di \textit{markup} per la creazione di documenti \\
         \href{https://www.latex-project.org/}{(www.latex-project.org)};
     \item \textbf{VisualStudio Code}: GUI con integrazioni per la creazione di documenti scritti in LaTeX e per la gestione delle repository git \\
         \href{https://code.visualstudio.com/}{(code.visualstudio.com)}
+        \begin{itemize}
+            \item \textbf{LaTeX Workshop}: estensione utilizzata in VisualStudio Code per la compilazione e la scrittura dei documenti.
+        \end{itemize}
 \end{itemize}
 
 \subsection{Creazione e modifica di un documento}
-Lo strumento utilizzato per la redazione di documenti è LaTeX, quando si crea un nuovo documento è obbligatorio l'utilizzo di uno dei template disponibili al fine di uniformare la documentazione rilasciata.
-La versione di partenza deve sempre essere \texttt{0.1.0} e venire aggiornata ad ogni modifica.
-I \textit{templates} disponibili sono:
+Lo strumento utilizzato per la redazione di documenti è LaTeX, quando si crea un nuovo documento è obbligatorio l'utilizzo di uno dei \textit{template} disponibili, al fine di uniformare la documentazione rilasciata.
+La versione di partenza deve sempre essere \texttt{0.1.0} e venire aggiornata ad ogni modifica (sezione \S\ref{documentazione_versionamento}).
+I \textit{template} disponibili sono:
 \begin{itemize}
-    \item \textbf{Verbali}: per i resoconti degli incontri interni al gruppo o con le aziende proponenti;
-    \item \textbf{Documenti}: ogni documento che non sia un verbale, prevede obbligatoriamente la presenza di un registro delle modifiche;
-    \item \textbf{Presentazioni}.
+    \item \textbf{Verbali}: per i resoconti degli incontri interni al gruppo o con le aziende proponenti.
+    \item \textbf{Documenti}: documenti richiesti nelle varie fasi di avanzamento.
+    \item \textbf{Presentazioni}: per i diari di bordo.
 \end{itemize}
-Qualora sia necessaria una diversa tipologia di documento le sue caratteristiche grafiche ed organizzative dovranno essere discusse nel gruppo.
+Qualora sia necessaria una diversa tipologia di documento le sue caratteristiche grafiche ed organizzative dovranno essere discusse nel gruppo.\\
+Ogni documento, ad esclusione di verbali e presentazioni, prevede obbligatoriamente la presenza di un registro delle modifiche (sezione \S\ref{documentazione_registromodifiche}).
 
 \subsection{Ruoli di redattore, verificatore, approvatore}
-Nella prima pagina di ogni documento o verbale è sempre presente un riassunto dei ruoli svolti dai componenti del gruppo, poi esteso all'interno del registro delle modifiche.
+Nella prima pagina di ogni documento o verbale è sempre presente un riassunto dei ruoli svolti dai componenti del gruppo, poi esteso all'interno del registro delle modifiche (sezione \S\ref{documentazione_registromodifiche}).
 La posizione di redattore e verificatore può essere assunta da più membri del gruppo, ciascuno dei quali può anche ricoprire entrambi i ruoli in base al contributo dato nelle differenti versioni di ogni documento.
-L'indicazione del nominativo dei membri del gruppo segue sempre l'ordine del nome e successivamente del cognome.
+L'indicazione del nominativo dei membri del gruppo segue sempre l'ordine alfabetico del nome e successivamente del cognome.
+
+\subsection{Registro delle modifiche}
+\label{documentazione_registromodifiche}
+Ogni documento, esclusi verbali e presentazione, include subito dopo la copertina un registro delle modifiche in forma tabellare.
+Vi sono le seguenti voci:
+\begin{itemize}
+    \item \textbf{Versione}: indica da versione del documento alla riga di modifica.
+    \item \textbf{Data}: indica la data di redazione, verifica o approvazione.
+    \item \textbf{Redattore}: nome del componente del gruppo che ha effettuato la redazione.
+    \item \textbf{Verificatore}: nome del componente del gruppo che ha effettuato la verifica.
+    \item \textbf{Approvatore}: nome del componente del gruppo che ha effettuato l'approvazione.
+    \item \textbf{Descrizione}: breve descrizione della sezione oggetto di redazione e verifica, in caso di approvazione indica l'azione svolta e la fase di avanzamento attuale.
+\end{itemize}
+\noindent
+La tabella viene riportata in ordine decrescente di modifica, così da mantenere sempre in cima le azioni più recenti eseguite.
 
 \subsection{Versionamento}
-Tutta la documentazione prodotta dovrà essere inserita in un \textit{repository} git presente su GitHub (\href{https://github.com/Project-SWEnergy/doc-latex/}{github.com/Project-SWEnergy/doc-latex}). 
-\par
-(INSERIRE STRUTTURA REPOSITORY) 
-\par
+\label{documentazione_versionamento}
+Tutto il codice sorgente della documentazione prodotta dovrà essere inserito in un \textit{repository} git presente su GitHub (\href{https://github.com/Project-SWEnergy/doc-latex/}{github.com/Project-SWEnergy/doc-latex}).\\ 
 Ogni documento rilasciato dovrà presentare anche un versionamento interno indicato con tre interi positivi nel formato \texttt{X.Y.Z}, dove:
 \begin{itemize}
-    \item \textbf{X}: da incrementare in fase di verifica e rilascio di un documento, indica l'ultima versione ufficialmente rilasciata;
-    \item \textbf{Y}: da incrementare in caso avvenga una sostanziale modifica, creazione o eliminazione di una sezione;
+    \item \textbf{X}: da incrementare in fase di verifica e rilascio di un documento, indica l'ultima versione ufficialmente rilasciata.
+    \item \textbf{Y}: da incrementare in caso avvenga una sostanziale modifica, creazione o eliminazione di una sezione.
     \item \textbf{Z}: da incrementare in caso avvenga una sostanziale modifica, creazione o eliminazione di una sottosezione a partire dal secondo livello.
 \end{itemize}
-Ogni documento dovrà essere creato partendo dalla sezione \texttt{0.1.0}, ogni successivo incremento alla versione dovrà essere accompagnato da una nuova riga nella tabella "Registro delle modifiche" che espliciti i cambiamenti effettuati.
+Ogni documento dovrà essere creato partendo dalla versione \texttt{0.1.0}, ogni successivo incremento alla versione dovrà essere accompagnato da una nuova riga nella tabella "Registro delle modifiche" che espliciti i cambiamenti effettuati.
 Modifiche quali correzioni grammaticali o leggere variazioni nel testo non vanno riportate nel registro delle modifiche e non producono un avanzamento di versione.
 L'avanzamento di versione non deve avvenire prima che il contenuto della modifica sia stato verificato.
 L'approvazione di un documento avviene solo quando il documento deve essere rilasciato per una specifica fase di avanzamento.
 
-\subsection{Verifica di uno documento}
+\subsection{Verifica di un documento}
+Ogni documento deve essere necessariamente verificato da un Verificatore, il quale si occuperà di revisionare i seguenti aspetti:
+\begin{itemize}
+    \item Correttezza grammaticale.
+    \item Correttezza logica.
+    \item Correttezza e completezza del contenuto in modo che risulti coerente con il documento.
+    \item Adesione al Way of Working.
+\end{itemize}
+\noindent
+In caso il verificatore dovesse riscontrare dei problemi questi vanno segnalati su GitHub tramite i commenti presenti all'interno dell'apposita sezione "Pull Request".
+Questa azione genera una notifica immediata al redattore, il quale provvederà ad apportare le modifiche necessarie. \\
+In caso invece il documento non richieda modifiche si dovrà procedere ad un avanzamento di versione come descritto in sezione \S\ref{documentazione_versionamento}.
+
+
+\subsection{Approvazione di un documento}
+Ogni documento approvato deve subire un avanzamento di versione come descritto alla sezione \S\ref{documentazione_versionamento}, inoltre l'approvatore si occuperà di spostare il PDF finale compilato nell'apposito \textit{repository} git presente su GitHub (\href{https://github.com/Project-SWEnergy/documentazione}{github.com/Project-SWEnergy/documentazione}).
