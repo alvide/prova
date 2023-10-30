@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698661215 "c:/Users/Famiglia/Desktop/SWE doc/doc-latex/Candidatura/Approvazione costi e assunzione impegni/main.tex" "main.pdf" "main" 1698661220 0
+["pdflatex"] 1698661420 "c:/Users/Famiglia/Desktop/SWE doc/doc-latex/Candidatura/Approvazione costi e assunzione impegni/main.tex" "main.pdf" "main" 1698661424 0
   "C:/Users/Famiglia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1698660371 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Famiglia/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1200.pk" 1698660379 15080 a4a512a3d8a45a19c300ca2e23ba9901 ""
   "C:/Users/Famiglia/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698659882 24176601 371c2454330bf55315e166f95c22da18 ""
@@ -145,10 +145,10 @@
   "img/header.png" 1698660038 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1698660038 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1698660038 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698661219 1769 dfa43b37b36c3c4c5253f50c7033dc9d "pdflatex"
-  "main.out" 1698661219 871 5ca5acc9eb8bac56e3b1fac2ec70bed9 "pdflatex"
+  "main.aux" 1698661423 1769 dfa43b37b36c3c4c5253f50c7033dc9d "pdflatex"
+  "main.out" 1698661423 871 5ca5acc9eb8bac56e3b1fac2ec70bed9 "pdflatex"
   "main.tex" 1698660038 498 38d7c3023ecd6bec18466a7ddc09b8fa ""
-  "utility/commands.tex" 1698660484 1948 ba4e16847ca312b5cc4e842332f6f0a4 ""
+  "utility/commands.tex" 1698661418 1948 85950aa36085951cc16a47e037e2440a ""
   "utility/package.sty" 1698660038 1086 df28dff36b32f8b6f877d6c2fb1f8e56 ""
   (generated)
   "main.aux"
