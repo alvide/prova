@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698765299 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Way of Working/main.tex" "main.pdf" "main" 1698765301 0
+["pdflatex"] 1698765826 "c:/Dev/Projects/SWE/doc-latex/Candidatura/Way of Working/main.tex" "main.pdf" "main" 1698765827 0
   "c:/Dev/Projects/SWE/doc-latex/Candidatura/Way of Working/main.tex" 1698763083 364 880475bca93867109a68f0fc42f913e0 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1697616687 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/Dev/Tools/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1697617488 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -141,14 +141,14 @@
   "img/header.png" 1698763083 17570 b0b1f600f0d33146ba0b6275f5172ad6 ""
   "img/horizontal_logo.png" 1698763083 111665 10b7de25b0ee1e7a7d16fbf8427cb399 ""
   "img/logo.png" 1698763083 133650 932f49fe1e7266df80c9677d8fd2165c ""
-  "main.aux" 1698765301 2224 f4c37fa88e0aeedfb8410df3f946adab "pdflatex"
-  "main.out" 1698765301 1750 23c83d18303b6175f590b1e0d4abef31 "pdflatex"
+  "main.aux" 1698765827 2224 f4c37fa88e0aeedfb8410df3f946adab "pdflatex"
+  "main.out" 1698765827 1750 23c83d18303b6175f590b1e0d4abef31 "pdflatex"
   "main.tex" 1698763083 364 880475bca93867109a68f0fc42f913e0 ""
-  "main.toc" 1698765301 930 b45967aa67bf5235672f58cf5f4888ed "pdflatex"
-  "sec/documentazione.tex" 1698765035 6823 f79eca7a59327f674d387f45dccf2a88 ""
+  "main.toc" 1698765827 930 b45967aa67bf5235672f58cf5f4888ed "pdflatex"
+  "sec/documentazione.tex" 1698765737 6823 f79eca7a59327f674d387f45dccf2a88 ""
   "sec/introduzione.tex" 1698763083 660 bb09ea5bdb85a56063b64a7eadd1c452 ""
-  "sec/registro_modifiche.tex" 1698765298 1222 04c6ac91ceea84a0df2d800d8a0b2ada ""
-  "utility/commands.tex" 1698763083 1891 145cd923a986f9c6e57147bb6a999a3d ""
+  "sec/registro_modifiche.tex" 1698765811 1222 74fd1bce588f5daf0915e4b93b778ab5 ""
+  "utility/commands.tex" 1698765825 1902 45b2c4bad079ad2c11b586f84acb8243 ""
   "utility/package.sty" 1698763083 1040 9a901f77d85e1f673cc41c5b8f65a253 ""
   (generated)
   "main.aux"
