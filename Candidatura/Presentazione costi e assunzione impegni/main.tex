@@ -1,21 +1,39 @@
 \documentclass[a4paper, 12pt]{article}
-\usepackage{utility/package}
-\input{utility/commands.tex}
+\newcommand{\template}{../../Templates}
+\usepackage{\template/package}
+\graphicspath{{../../Assets}}
 
+\newcommand{\Titolo}{Presentazione costi e assunzione impegni}
+\newcommand{\Gruppo}{SWEnergy}
+\newcommand{\Mail}{\href{mailto:project.swenergy@gmail.com}{project.swenergy@gmail.com}}
+\newcommand{\Versione}{1.0.0}
+\newcommand{\Descrizione}{Il \textit{team} SWEnergy presenta il preventivo e 
+definisce
+gli impegni necessari da mantenere, al fine di garantire al committente un
+prodotto finito nei tempi dichiarati ed in accordo con i costi previsti.}
+\newcommand{\Stato}{Approvato}
+\newcommand{\Data}{30/10/2023}
+\newcommand{\Redattori}{Carlo Rosso}
+\newcommand{\Verificatori}{Niccolò Carlesso}
+\newcommand{\Approvatori}{Davide Maffei}
+\newcommand{\Responsabile}{Nome 1}
+\newcommand{\Destinatari}{Prof. Tullio Vardegana \\ & Prof. Riccardo Cardin}
+
+\input{\template/Presentazione costi e assunzione impegni/commands.tex}
 
 \begin{document}
-    % Cambio colore della prima pagina
-    %\newpagecolor{gray}            
-    %\afterpage{\restorepagecolor}
-    
-    \copertina{}
-    \newpage
-	\input{chapters/registro_modifiche}
-    \newpage
-	\input{chapters/rischi}
-	\input{chapters/preventivo}
-	\input{chapters/assegnamento_ore}
-	\input{chapters/scadenza}
-	\input{chapters/considerazioni}
+% Cambio colore della prima pagina
+%\newpagecolor{gray}            
+%\afterpage{\restorepagecolor}
+
+\copertina{}
+\newpage
+\input{chapters/registro_modifiche}
+\newpage
+\input{chapters/rischi}
+\input{chapters/preventivo}
+\input{chapters/assegnamento_ore}
+\input{chapters/scadenza}
+\input{chapters/considerazioni}
 
 \end{document}
