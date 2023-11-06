@@ -1,0 +1,55 @@
+\newcommand{\Titolo}{Verbale esterno - Sanmarco Informatica}
+\newcommand{\Gruppo}{SWEnergy}
+\newcommand{\Data}{24/10/2023}
+\newcommand{\Mail}{\href{mailto:project.swenergy@gmail.com}{project.swenergy@gmail.com}}
+\newcommand{\Versione}{1.0.0}
+\newcommand{\Descrizione}{Verbale riguardante la prima chiamata con l'azienda Sanmarco Informatica. Sono state poste le domande del gruppo riguardo al capitolato C5.}
+\newcommand{\Stato}{Approvato}
+\newcommand{\Redattori}{Davide Maffei}
+\newcommand{\Verificatori}{Alessandro Tigani Sava}
+\newcommand{\ApprovatoriInterni}{Matteo Bando}
+\newcommand{\ApprovatoriEsterni}{Matteo Bassani}
+
+\newcommand{\copertina}{    
+	\begin{titlepage}
+		\vspace*{-3.5cm}
+    	\makebox[\textwidth]{\includegraphics[width=\paperwidth]{img/header.png}}
+		\begin{center}
+			\includegraphics[width=1\textwidth]{img/logo}	\\
+			\vspace{1cm}
+			\Mail{}	\\
+			\vspace{0.5cm}
+			\textbf{\begin{LARGE} \Titolo \end{LARGE}}	\\
+			\vspace{1cm}
+			\textbf{Descrizione:} \Descrizione{} \\
+			\vspace{1cm}
+		\end{center}
+		\begin{center}
+			{\renewcommand{\arraystretch}{1.5}
+			\begin{tabular}{ll}
+				\textbf{Stato} 			& \Stato		\\ 
+				\textbf{Data}			& \Data			\\
+				\midrule
+				\textbf{Redattori} 		& \Redattori 	\\  
+				\textbf{Verificatori} 	& \Verificatori	\\
+				\textbf{Approvatori interni} 	& \ApprovatoriInterni	\\    
+				\textbf{Approvatori esterni}	& \ApprovatoriEsterni	\\
+				\midrule
+				\textbf{Versione}		& \Versione		\\
+			   \end{tabular}
+			}
+		\end{center}
+		\vspace{5cm}
+	\end{titlepage}
+}
+
+\fancypagestyle{plain}{
+  	\fancyhf{}
+  	\rhead{ \includegraphics[scale=0.05]{img/horizontal_logo.png}}
+  	\lhead{\Titolo}
+  	%\lfoot{\Titolo}
+  	\rfoot{\thepage{}} 
+  	\renewcommand{\headrulewidth}{0.2pt}
+  	\renewcommand{\footrulewidth}{0.2pt}
+}
+\pagestyle{plain}
