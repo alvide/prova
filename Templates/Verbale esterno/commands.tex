@@ -1,5 +1,4 @@
 \usepackage{../package}
-\graphicspath{{../../Assets}}
 
 \newcommand{\copertina}{
 	\begin{titlepage}
@@ -8,7 +7,7 @@
 		\begin{center}
 			\includegraphics[width=1\textwidth]{logo.png}	\\
 			\vspace{1cm}
-			\Mail	\\
+			\Mail{}	\\
 			\vspace{0.5cm}
 			\textbf{\begin{LARGE} \Titolo \end{LARGE}}	\\
 			\vspace{1cm}
@@ -16,28 +15,21 @@
 			\vspace{1cm}
 		\end{center}
 		\begin{center}
-			{
-				\renewcommand{\arraystretch}{1.5}
+			{\renewcommand{\arraystretch}{1.5}
 				\begin{tabular}{ll}
-					\textbf{Stato}        & \Stato        \\
-					\textbf{Data}         & \Data         \\
+					\textbf{Stato}               & \Stato              \\
+					\textbf{Data}                & \Data               \\
 					\midrule
-					\textbf{Redattori}    & \Redattori    \\
-					\textbf{Verificatori} & \Verificatori \\
-					\textbf{Approvatori}  & \Approvatori  \\
+					\textbf{Redattori}           & \Redattori          \\
+					\textbf{Verificatori}        & \Verificatori       \\
+					\textbf{Approvatori interni} & \ApprovatoriInterni \\
+					\textbf{Approvatori esterni} & \ApprovatoriEsterni \\
 					\midrule
-					\textbf{Versione}     & \Versione     \\
+					\textbf{Versione}            & \Versione           \\
 				\end{tabular}
 			}
 		\end{center}
-		\vspace{4cm}
-		\begin{flushright}
-			\begin{tabular}{ll}
-				Il responsabile: & \Responsabile            \\
-				                 &                          \\
-				                 & \underline{\hspace{3cm}} \\
-			\end{tabular}
-		\end{flushright}
+		\vspace{5cm}
 	\end{titlepage}
 }
 
@@ -51,3 +43,4 @@
 	\renewcommand{\footrulewidth}{0.2pt}
 }
 \pagestyle{plain}
+

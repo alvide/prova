@@ -1,5 +1,4 @@
 \usepackage{../package}
-\graphicspath{{../../Assets}}
 
 \newcommand{\copertina}{
 	\begin{titlepage}
@@ -8,7 +7,7 @@
 		\begin{center}
 			\includegraphics[width=1\textwidth]{logo.png}	\\
 			\vspace{1cm}
-			\Mail{}	\\
+			\Mail	\\
 			\vspace{0.5cm}
 			\textbf{\begin{LARGE} \Titolo \end{LARGE}}	\\
 			\vspace{1cm}
@@ -16,16 +15,19 @@
 			\vspace{1cm}
 		\end{center}
 		\begin{center}
-			\begin{tabular}{ll}
-				\textbf{Stato}        & \Stato        \\
-				\textbf{Data}         & \Data         \\
-				\midrule
-				\textbf{Redattori}    & \Redattori    \\
-				\textbf{Verificatori} & \Verificatori \\
-				\textbf{Approvatori}  & \Approvatori  \\
-				\midrule
-				\textbf{Versione}     & \Versione     \\
-			\end{tabular}
+			{
+				\renewcommand{\arraystretch}{1.5}
+				\begin{tabular}{ll}
+					\textbf{Stato}        & \Stato        \\
+					\textbf{Data}         & \Data         \\
+					\midrule
+					\textbf{Redattori}    & \Redattori    \\
+					\textbf{Verificatori} & \Verificatori \\
+					\textbf{Approvatori}  & \Approvatori  \\
+					\midrule
+					\textbf{Versione}     & \Versione     \\
+				\end{tabular}
+			}
 		\end{center}
 		\vspace{4cm}
 		\begin{flushright}
