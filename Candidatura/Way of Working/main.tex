@@ -1,7 +1,23 @@
 \documentclass[a4paper, 12pt]{article}
-\usepackage{utility/package}
-\input{utility/commands.tex}
+\newcommand{\template}{../../templates}
+\usepackage{\template/package}
+\graphicspath{{../../assets}}
 
+\newcommand{\Titolo}{Way of working}
+\newcommand{\Gruppo}{SWEnergy}
+\newcommand{\Data}{30/10/2023}
+\newcommand{\Mail}{\href{mailto:project.swenergy@gmail.com}{project.swenergy@gmail.com}}
+\newcommand{\Versione}{1.0.0}
+\newcommand{\Descrizione}{Elenco delle procedure interne e delle buone pratiche di progetto adottate dal gruppo.}
+\newcommand{\Stato}{Approvato}
+\newcommand{\Redattori}{Alessandro Tigani Sava \\
+						& Matteo Bando
+}
+\newcommand{\Verificatori}{Niccolò Carlesso}
+\newcommand{\Approvatori}{Giacomo Gualato}
+\newcommand{\Responsabile}{}
+
+\include{\template/Way of working/commands.tex}
 
 \begin{document}
     \copertina{}
