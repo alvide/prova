@@ -1,19 +1,41 @@
 \documentclass[a4paper, 12pt]{article}
-\usepackage{utility/package}
-\input{utility/commands.tex}
+\newcommand{\template}{../../Templates}
+\usepackage{\template/package}
+\graphicspath{{../../Assets}}
 
+\newcommand{\Titolo}{Valutazione capitolati}
+\newcommand{\Gruppo}{SWEnergy}
+\newcommand{\Data}{28/10/2023}
+\newcommand{\Mail}{\href{mailto:project.swenergy@gmail.com}{project.swenergy@gmail.com}}
+\newcommand{\Versione}{1.0.0}
+\newcommand{\Descrizione}{Breve resoconto e valutazione dei capitolati presentati al link: \\
+	\href{https://www.math.unipd.it/~tullio/IS-1/2023/Progetto/Capitolati.html}{Capitolati 2023}
+}
+\newcommand{\Stato}{Approvato}
+\newcommand{\Redattori}{
+	Alessandro Tigani Sava \\ 
+	& Davide Maffei		\\
+	& Giacomo Gualato	\\
+	& Niccolò Carlesso
+}
+\newcommand{\Verificatori}{Matteo Bando}
+\newcommand{\Approvatori}{Carlo Rosso}
+\newcommand{\Responsabile}{}
+\newcommand{\Destinatari}{Prof. Tullio Vardanega \\ & Prof. Riccardo Cardin}
+
+\input{\template/Valutazione capitolati/commands.tex}
 
 \begin{document}
-    \copertina{}
+\copertina{}
 
-    \newpage
-    \input{sec/registro_modifiche.tex}
-    \newpage
-    \setcounter{tocdepth}{2}
-    \tableofcontents
-    \newpage
-    \input{sec/capitolato_scelto.tex}
-    \newpage
-    \input{sec/capitolati_rimanenti.tex}
+\newpage
+\input{sec/registro_modifiche.tex}
+\newpage
+\setcounter{tocdepth}{2}
+\tableofcontents
+\newpage
+\input{sec/capitolato_scelto.tex}
+\newpage
+\input{sec/capitolati_rimanenti.tex}
 
 \end{document}
