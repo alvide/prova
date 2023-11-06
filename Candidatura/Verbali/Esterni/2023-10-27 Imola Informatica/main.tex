@@ -1,14 +1,28 @@
 \documentclass[a4paper, 12pt]{article}
-\usepackage{utility/package}
-\input{utility/commands.tex}
+\newcommand{\template}{../../../../Templates}
+\usepackage{\template/package}
+\graphicspath{{../../../../Assets}}
 
+\newcommand{\Titolo}{Verbale esterno - Imola Informatica}
+\newcommand{\Gruppo}{SWEnergy}
+\newcommand{\Data}{27/10/2023}
+\newcommand{\Mail}{\href{mailto:project.swenergy@gmail.com}{project.swenergy@gmail.com}}
+\newcommand{\Versione}{1.0.0}
+\newcommand{\Descrizione}{Verbale riguardante la prima chiamata con l'azienda Imola Informatica. Sono state poste le domande del gruppo riguardo al capitolato C3.}
+\newcommand{\Stato}{Approvato}
+\newcommand{\Redattori}{Davide Maffei}
+\newcommand{\Verificatori}{Giacomo Gualato}
+\newcommand{\ApprovatoriInterni}{Matteo Bando}
+\newcommand{\ApprovatoriEsterni}{Alessandro Staffolani}
+
+\input{\template/Verbale esterno/commands.tex}
 
 \begin{document}
-    \copertina{}
+\copertina{}
 
-    \newpage
+\newpage
 
-    \input{sec/partecipanti}
-    \input{sec/ordine_del_giorno.tex}
-    \input{sec/resoconto.tex}
+\input{sec/partecipanti}
+\input{sec/ordine_del_giorno.tex}
+\input{sec/resoconto.tex}
 \end{document}
